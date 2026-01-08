@@ -1,0 +1,28 @@
+# Rider / IntelliJ
+.idea/
+
+# Build artifacts
+**/bin/
+**/obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+
+# NuGet
+*.nupkg
+
+# Rider caches
+.idea/
+*.iml
+
+# JetBrains Rider workspace
+.idea/
+
+# VS Code
+.vscode/
